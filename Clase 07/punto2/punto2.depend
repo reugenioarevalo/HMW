@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1600232782 source:c:\users\usuario\documents\utn\segundo cuatrimestre\programacion 2\ejercicios\tp3\punto2\main.cpp
+	<iostream>
+	"proyecto.h"
+
+1600232782 c:\users\usuario\documents\utn\segundo cuatrimestre\programacion 2\ejercicios\tp3\punto2\proyecto.h
+
+1600232354 source:c:\users\usuario\documents\utn\segundo cuatrimestre\programacion 2\ejercicios\tp3\punto2\proyecto.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	"proyecto.h"
+	"estructura.h"
+	"archivos.h"
+
+1600192395 c:\users\usuario\documents\utn\segundo cuatrimestre\programacion 2\ejercicios\tp3\punto2\estructura.h
+
+1600229157 source:c:\users\usuario\documents\utn\segundo cuatrimestre\programacion 2\ejercicios\tp3\punto2\archivos.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"archivos.h"
+	"estructura.h"
+
+1600228954 c:\users\usuario\documents\utn\segundo cuatrimestre\programacion 2\ejercicios\tp3\punto2\archivos.h
+
