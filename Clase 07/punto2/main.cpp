@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+#include <cstdlib>
+#include <cstdio>
+#include <cstring>
 #include "proyecto.h"
 
 int main(){
